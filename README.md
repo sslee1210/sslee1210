@@ -1,5 +1,7 @@
-## 프론트엔드 개발자 이성수입니다.
-<br>
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Sungsoo%20Github!&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62"/>
+</p>
+
 <div align="center">
 <h4 align="center"> My Most Used Languages </h4>
  <a href="https://github.com/wkd6262" align="center">
