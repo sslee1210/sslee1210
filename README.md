@@ -2,14 +2,10 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Sungsoo%20Github!&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62"/>
 </p>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nanum+Gothic+Coding&size=35&pause=1000&color=E6B9F7&center=true&vCenter=true&width=1000&lines=“끊임없이+앞으로+나아가는+개발자+입니다.”;)](https://git.io/typing-svg) 
+
 <div align="center">
-<h4 align="center"> My Most Used Languages </h4>
- <a href="https://github.com/wkd6262" align="center">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wkd6262&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=vue&hide=Objective%2DC" />
- </a>
-</div>
-<div align="center">
-<h4>📚Once I've Used📚</h4>
+<h4>🛠️Tech Stacks</h4>
   <br>
 <div align="center">
 <img src="https://img.shields.io/badge/html5-E34F26.svg?&style=flat-squar&logo=html5&logoColor=white"/>
@@ -22,24 +18,19 @@
 <div align="center">
 <img src="https://img.shields.io/badge/nodedotjs-339933.svg?&style=flat-squar&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/express-000000.svg?&style=flat-squar&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/ejs-B4CA65.svg?&style=flat-squar&logo=ejs&logoColor=white"/>
 <img src="https://img.shields.io/badge/mongodb-47A248.svg?&style=flat-squar&logo=mongodb&logoColor=white"/>
 </div>
 </div>
 <br>
-<div align="center">
-<h4>📎Tools📎</h4>
+## Contact📫
+<div align=center>
+          <a href="mailto:leesungsoo7883@gmail.com"> <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:leesungsoo7883@gmail.com"></a>
+
+
   <br>
-<div align="center">
-<img src="https://img.shields.io/badge/visualstudiocode-007ACC.svg?&style=flat-squar&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/git-F05032.svg?&style=flat-squar&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/github-181717.svg?&style=flat-squar&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/notion-44C1C5.svg?&style=flat-squar&logo=notion&logoColor=black"/>
-  <br>
-<img src="https://img.shields.io/badge/figma-F24E1E.svg?&style=flat-squar&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/adobephotoshop-31A8FF.svg?&style=flat-squar&logo=adobephotoshop&logoColor=white"/>
-<img src="https://img.shields.io/badge/adobeillustrator-FF9A00.svg?&style=flat-squar&logo=adobeillustrator&logoColor=white"/>
-</div>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyejee0504%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
 </div>
 
-<br>
+## Github-stats ⏲️  
+
+<img src="https://raw.githubusercontent.com/hyejee0504/github-stats-transparent/output/generated/overview.svg" width="49.2%" /> <img src="https://raw.githubusercontent.com/hyejee0504/github-stats-transparent/output/generated/languages.svg?exclude_repo=Frontend-School3" width="49.2%" />
