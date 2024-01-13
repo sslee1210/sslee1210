@@ -16,12 +16,11 @@
 <img src="https://img.shields.io/badge/nodedotjs-339933.svg?&style=flat-squar&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/express-000000.svg?&style=flat-squar&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/mongodb-47A248.svg?&style=flat-squar&logo=mongodb&logoColor=white"/>
-  
-  
 </div>
-<br>
 
 ## Contact📫
 <div align=center>
-          <a href="mailto:leesungsoo7883@gmail.com"> <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:leesungsoo7883@gmail.com"></a>
+          <a href="mailto:leesungsoo7883@gmail.com"> <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:leesungsoo7883@gmail.com"></a></div>
 
+## Github-stats ⏲️  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sslee1210&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sslee1210&layout=compact&theme=tokyonight)
