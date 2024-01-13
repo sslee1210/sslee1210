@@ -1,4 +1,4 @@
-![sslee1210](https://github.com/sslee1210/sslee1210/assets/142865231/a9849d74-5f0c-4a37-8a61-c403a93e3e30)
+## 프론트엔드 개발자 이성수입니다.
 <br>
 <div align="center">
 <h4 align="center"> My Most Used Languages </h4>
